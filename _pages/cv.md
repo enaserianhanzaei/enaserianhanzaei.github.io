@@ -11,30 +11,30 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Information Technology Engineering, Amirkabir University of Technology, 2010
+* M.S. in Information Technology Engineering, University of Tehran, 2013
+* Ph.D in Computer Science, University of the West of Scotland, 2018 
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* December 2020 - Present: Postdoctoral Research Fellow (Social Data Scientist)
+  * University of Exeter, Q-Step Centre for Computational Social Sciences
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* October 2018 - November 2020: Research Fellow (Computational Social Scientist)
+  * University of Exeter, Department of Psychology
   
-Skills
+Technical Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Data Analysis Techniques
+  * Machine Learning (Supervised & Unsupervised)
+  * Data Mining (Frequent pattern mining, Association analysis, etc.)
+  * Deep Learning (RNN, CNN, LSTM, etc.)
+  * Natural Language Processing (Topic Modelling, Sentiment Analysis, etc)
+  * Statistical Analysis (Survival analysis, Multi-level modelling, Hypothesis testing, etc)
+* Programming Languages
+  * Python, R, Matlab, Java, Ruby on Rails, SQL
+* Frameworks, Tools & Practices
+  * Git, Jupyter Notebook, Google Colab, Scrapy, Selenium, Latex
 
 Publications
 ======
@@ -54,6 +54,11 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+#Service and leadership
+#======
+#* JMIR Formative Research
+#* CSCW (ACM Conference On Computer-Supported Cooperative Work And Social Computing)
+#* Computational Intelligence
+#* Mobile Networks and Applications
+#* The Journal of Supercomputing
+
