@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Dr"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
+name                     : &name "Elahe Naserianhanzaei"
+description              : &description "A data science researcher passionate to gain a deeper understanding of human behaviour by combining the power of computational methods with insights and theories from the social, behavioral, and political sciences."
 url                      : https://enaserianhanzaei.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "enaserianhanzaei.github.io"
