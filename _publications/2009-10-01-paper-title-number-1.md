@@ -6,3 +6,4 @@ date: 2022-08-14 (Expected)
 venue: 'Journal of Medical Internet Research'
 paperurl: 'https://doi.org/10.2196/36555'
 citation: 'Naserianhanzaei E, Koschate-Reis M. Effects of Substance Use, Recovery, and Non–Drug-Related Online Community Participation on the Risk of a Use Episode During Remission From Opioid Use Disorder: Longitudinal Observational Study. Journal of Medical Internet Research. 31/05/2022:36555 (forthcoming/in press)'
+---
