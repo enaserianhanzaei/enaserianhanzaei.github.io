@@ -54,12 +54,12 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+Service
 ======
-Journal and conference reviewr
-* JMIR Formative Research
-* CSCW (ACM Conference On Computer-Supported Cooperative Work And Social Computing)
-* Computational Intelligence
-* Mobile Networks and Applications
-* The Journal of Supercomputing
+* Journal and conference reviewr
+  * JMIR Formative Research
+  * CSCW (ACM Conference On Computer-Supported Cooperative Work And Social Computing)
+  * Computational Intelligence
+  * Mobile Networks and Applications
+  * The Journal of Supercomputing
 
