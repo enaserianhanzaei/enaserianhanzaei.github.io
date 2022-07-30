@@ -1,17 +1,11 @@
 ---
-title: "Quantifying crowd size with mobile phone and Twitter data"
+title: "Super-(and Hyper-) Posters on Extremist Forums"
 collection: publications
-permalink: /publication/2015-05-27-paper-title-number-1
-excerpt: 'Being able to infer the number of people in a specific area is of extreme importance for the 
-avoidance of crowd disasters and to facilitate emergency evacuations. Here, using a football 
-stadium and an airport as case studies, we present evidence of a strong relationship 
-between the number of people in restricted areas and activity recorded by mobile phone 
-providers and the online service Twitter. Our findings suggest that data generated through 
-our interactions with mobile phone networks and the Internet may allow us to gain valuable 
-measurements of the current state of society.'
-date: 2015-05-27
-venue: 'Royal Society Open Science'
-paperurl: '10.1098/rsos.150162'
-citation: 'Botta, F., Moat, H. S., & Preis, T. (2015). Quantifying crowd size with mobile phone and Twitter data. Royal Society open science, 2(5), 150162.'
+permalink: /publication/2022-07-30-paper-title-number-2
+excerpt: 'This paper examines patterns of posting behaviour on extremist online forums in order to empirically identify and define classes of highly active ‘super-posters'. Using a unique dataset of 8 far-right, 7 Salafi-jihadist, and 2 Incel forums, totalling 12,569,639 unique posts, the study operates a three-dimensional analysis of super-posters (Gini coefficient, Fisher-Jenks algorithm, network analysis) that sheds light on the type of influence at play in these online spaces. Our study shows that extremist forums consistently display four statistically distinguishable classes of posters from the least active ‘hypo-posters' to the most active ‘hyper-posters', as well as demonstrating that, while hyper-posters’ activity is remarkable, they are not necessarily the most central or connected members of extremist forums. These findings, which suggest that extremist forums are places where both minority and majority influences occur, not only advance our understanding of a key locus of online radicalisation; they also pave the way for sounder interventions to monitor and disrupt the phenomenon.'
+date: 2022-07-30
+venue: 'Journal of Policing, Intelligence and Counter Terrorism'
+paperurl: 'https://doi.org/10.1080/18335330.2022.2103386'
+citation: 'Baele, S. J., L. Brace, T. G. Coan, and E. Naserian. Super-(and Hyper-) Posters on Extremist Forums. Journal of Policing, Intelligence and Counter Terrorism (2022)'
 ---
 
