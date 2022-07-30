@@ -1,15 +1,9 @@
 ---
-title: "Paper Title Number 2"
+title: "Super-(and Hyper-) Posters on Extremist Forums"
 collection: publications
-permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+excerpt: 'This paper examines patterns of posting behaviour on extremist online forums in order to empirically identify and define classes of highly active ‘super-posters'. Using a unique dataset of 8 far-right, 7 Salafi-jihadist, and 2 Incel forums, totalling 12,569,639 unique posts, the study operates a three-dimensional analysis of super-posters (Gini coefficient, Fisher-Jenks algorithm, network analysis) that sheds light on the type of influence at play in these online spaces. Our study shows that extremist forums consistently display four statistically distinguishable classes of posters from the least active ‘hypo-posters' to the most active ‘hyper-posters', as well as demonstrating that, while hyper-posters’ activity is remarkable, they are not necessarily the most central or connected members of extremist forums. These findings, which suggest that extremist forums are places where both minority and majority influences occur, not only advance our understanding of a key locus of online radicalisation; they also pave the way for sounder interventions to monitor and disrupt the phenomenon.'
+date: 2022-07-30
+venue: 'Journal of Policing, Intelligence and Counter Terrorism'
+paperurl: 'https://www.tandfonline.com/doi/full/10.1080/18335330.2022.2103386'
+citation: 'S. Baelle, L. Brace, T. Coan, E. Naserian. Super- (and hyper-) posters on extremist forums. Journal of Policing, Intelligence and Counter Terrorism'
 ---
-This paper is about the number 2. The number 3 is left for future work.
-
-[Download paper here](http://academicpages.github.io/files/paper2.pdf)
-
-Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).
