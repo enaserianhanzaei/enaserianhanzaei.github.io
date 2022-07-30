@@ -7,3 +7,4 @@ venue: 'Journal of Policing, Intelligence and Counter Terrorism'
 paperurl: 'https://www.tandfonline.com/doi/full/10.1080/18335330.2022.2103386'
 citation: 'S. Baelle, L. Brace, T. Coan, E. Naserian. Super- (and hyper-) posters on extremist forums. Journal of Policing, Intelligence and Counter Terrorism'
 ---
+
