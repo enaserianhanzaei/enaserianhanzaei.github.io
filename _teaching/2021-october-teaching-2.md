@@ -1,5 +1,5 @@
 ---
-title: "Co-Supervision and co-mentoring"
+title: "Introduction to Data Mining"
 collection: teaching
 type: "Undergraduate Course"
 permalink: /teaching/2021-october-teaching-2
