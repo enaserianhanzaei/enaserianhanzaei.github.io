@@ -8,6 +8,12 @@ date: 2020-present
 location: "Mashhad, Iran"
 ---
 
-* I have mentored two undergraduate students for their final projects
+* I have mentored an undergraduate final project:
   * "Social Identity and Users' Privacy Preferences in Online World"
-    * Ms. Regine Chua and Mr. Charles Garinet
+    * Ms. Regine Chua, and Mr. Charles Garinet
+* I have mentored an internship project:
+  * "Pregnancy and Developing a New Identity"
+    * Ms. Jodie Hall, and Ms. Rada Biyukova
+* I co-supervised a master project:
+  * "The Development of Parent Identity for those with an ASD diagnosed Child Compared with Parent of Neurotypical Children"
+    * Ms. kartiki maheshwari
